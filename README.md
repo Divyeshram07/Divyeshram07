@@ -18,10 +18,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Divyeshram07&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Divyeshram07/Divyeshram07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 </div>
 
 <br/>
@@ -122,7 +118,7 @@ I'm a Computer Science undergraduate at <b>KL University</b>, specializing in <b
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Divyeshram07&show_icons=true&theme=radical&bg_color=0F0524&title_color=A78BFA&icon_color=06B6D4&text_color=E2E8F0&border_color=6D28D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyeshram07&theme=radical&background=0F0524&stroke=6D28D9&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Divyeshram07&theme=radical&background=0F0524&stroke=6D28D9&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA"/>
 
 <br/>
 
